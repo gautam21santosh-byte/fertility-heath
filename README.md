@@ -135,7 +135,7 @@ Developed machine learning models to predict pregnancy outcomes based on fertili
 
 # 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard_image.png)
+![Dashboard](dashboard_image.png)
 
 ---
 
